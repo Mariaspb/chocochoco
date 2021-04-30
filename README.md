@@ -1,2 +1,0 @@
-# chocochoco
-my first project
